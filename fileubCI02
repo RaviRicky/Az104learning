@@ -1,4 +1,9 @@
+
 this is my machine in CI ub 02 machine in this I have the git repo and that has a file ubuntu 02 name
 
 this is anotherthing added now to this file at 23/04/2024 at 5 pm IST
+
+now I have added this line from ubuntu machine runing on azure by conection it from host MS machine using terminal and now updating this line using vmi editor
+:w is to save changes after pressing the esc key
+save change and exit :wq
 
